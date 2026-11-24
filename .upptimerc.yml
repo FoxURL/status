@@ -4,28 +4,37 @@ repo: status
 sites:
   - name: FoxURL
     url: https://foxurl.github.io/
+    maxResponseTime: 1000
   - name: FoxLink
     url: https://fxlnk.github.io/
+    maxResponseTime: 1000
   - name: FoxBox
     url: https://foxurl.github.io/FoxBox/
+    maxResponseTime: 1000
   - name: FoxURL Cloud
     url: https://foxurl.github.io/cloud/
+    maxResponseTime: 1000
   - name: FoxURL Products
     url: https://foxurl.github.io/cloud/products/
+    maxResponseTime: 1000
   - name: FoxURL Login
     url: https://foxurl.github.io/login/
+    maxResponseTime: 1000
   - name: FoxURL Email Login
     url: https://foxurl.github.io/login/email/
+    maxResponseTime: 1000
   - name: FoxURL Passkey Login
     url: https://foxurl.github.io/login/passkey/
+    maxResponseTime: 1000
   - name: FoxURL Google Login
     url: https://foxurl.github.io/login/google/
+    maxResponseTime: 1000
   - name: FoxURL GitHub Login
     url: https://foxurl.github.io/login/github/
-  - name: FoxURL Premium
-    url: https://foxurl.github.io/premuim/
+    maxResponseTime: 1000
   - name: FoxURL Recovery
     url: https://foxurl.github.io/recovery/
+    maxResponseTime: 1000
 
 status-website:
   baseUrl: /status
