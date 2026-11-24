@@ -1,21 +1,38 @@
-# Change these first
 owner: FoxURL
 repo: status
 
 sites:
   - name: FoxURL
-    url: https://FoxURL.github.io
-  - name: FoxURL login
-    url: https://FoxURL.github.io/login/
-  - name: cloud
-    url: https://FoxURL.github.io/cloud/
+    url: https://foxurl.github.io/
+  - name: FoxLink
+    url: https://fxlnk.github.io/
+  - name: FoxBox
+    url: https://foxurl.github.io/FoxBox/
+  - name: FoxURL Cloud
+    url: https://foxurl.github.io/cloud/
+  - name: FoxURL Products
+    url: https://foxurl.github.io/cloud/products/
+  - name: FoxURL Login
+    url: https://foxurl.github.io/login/
+  - name: FoxURL Email Login
+    url: https://foxurl.github.io/login/email/
+  - name: FoxURL Passkey Login
+    url: https://foxurl.github.io/login/passkey/
+  - name: FoxURL Google Login
+    url: https://foxurl.github.io/login/google/
+  - name: FoxURL GitHub Login
+    url: https://foxurl.github.io/login/github/
+  - name: FoxURL Premium
+    url: https://foxurl.github.io/premuim/
+  - name: FoxURL Recovery
+    url: https://foxurl.github.io/recovery/
 
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FoxURL status
   introTitle: "**FoxURL** status page."
-  introMessage: view the FoxURL uptime page to view response time, and incident historys.
+  introMessage: View live availability, response times, and incident history for FoxURL services.
   navbar:
     - title: Status
       href: /
